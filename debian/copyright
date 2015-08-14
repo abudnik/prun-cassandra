@@ -1,0 +1,10 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: prun-cassandra
+Upstream-Contact: Andrey Budnik <budnik27@gmail.com>
+Source: https://github.com/abudnik/prun-cassandra
+
+Files: *
+Copyright: (C) 2013+ Andrey Budnik <budnik27@gmail.com>
+License: GPL-2+
+ The full text of the GPL is distributed in
+ /usr/share/common-licenses/GPL-2 on Debian systems.
